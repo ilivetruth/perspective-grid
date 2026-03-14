@@ -12,18 +12,19 @@
 1. Mouse-down sets the center point (vanishing center).
 2. Drag sets the radius/extent.
 3. Mouse-up generates a radial fan of perspective guide lines.
-- Generated lines are isolated 2-point segments (not intentionally welded together).
+- Generated lines are isolated 2-point segments.
 
 ## How to use
 1. Install/copy files into your active Moho `Tool` scripts folder.
 2. Restart Moho.
-3. Select `Perspective Grid`.
+3. Select `Perspective Grid`. (Vector layer must be selected, adds a new button under "Other" at the bottom of the drawing toolbar. 
 4. Set `Lines` (default `99`).
 5. Click and drag in the canvas to generate guides.
 6. Move/edit generated points manually as needed.
+[![Video Title](https://img.youtube.com/vi/WhMojmPIMV0/0.jpg)](https://www.youtube.com/watch?v=WhMojmPIMV0)
 
 ## Credits
-- Creator metadata in script: `Earl B (ilivetruth.com) + Codex`
+- Creator metadata in script: `Earl B (ilivetruth.com)`
 
 ## Tool list section note (`_tool_list.txt`)
 By default, custom tools may appear under `Other`.  

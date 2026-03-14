@@ -19,7 +19,7 @@ function PG_PerspectiveGrid:Description()
 end
 
 function PG_PerspectiveGrid:Creator()
-    return "Earl B (ilivetruth.com) + Codex"
+    return "Earl B (ilivetruth.com)"
 end
 
 function PG_PerspectiveGrid:UILabel()
