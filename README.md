@@ -16,8 +16,7 @@
 
 ## How to use
 1. Install/copy files into your active Moho `Tool` scripts folder.
-[download zip ]([URL](https://github.com/ilivetruth/perspective-grid/archive/refs/heads/main.zip))
-Extract
+[Download ZIP](https://github.com/ilivetruth/perspective-grid/archive/refs/heads/main.zip)Extract
 3. Restart Moho.
 4. Select `Perspective Grid`. (Vector layer must be selected, adds a new button under "Other" at the bottom of the drawing toolbar. 
 5. Set `Lines` (default `99`).
