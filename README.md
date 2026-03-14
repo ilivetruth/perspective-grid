@@ -16,11 +16,13 @@
 
 ## How to use
 1. Install/copy files into your active Moho `Tool` scripts folder.
-2. Restart Moho.
-3. Select `Perspective Grid`. (Vector layer must be selected, adds a new button under "Other" at the bottom of the drawing toolbar. 
-4. Set `Lines` (default `99`).
-5. Click and drag in the canvas to generate guides.
-6. Move/edit generated points manually as needed.
+[download zip ]([URL](https://github.com/ilivetruth/perspective-grid/archive/refs/heads/main.zip))
+Extract
+3. Restart Moho.
+4. Select `Perspective Grid`. (Vector layer must be selected, adds a new button under "Other" at the bottom of the drawing toolbar. 
+5. Set `Lines` (default `99`).
+6. Click and drag in the canvas to generate guides.
+7. Move/edit generated points manually as needed.
 [![Video Title](https://img.youtube.com/vi/WhMojmPIMV0/0.jpg)](https://www.youtube.com/watch?v=WhMojmPIMV0)
 
 ## Credits
