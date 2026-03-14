@@ -15,8 +15,8 @@
 - Generated lines are isolated 2-point segments.
 
 ## How to use
+[Download ZIP](https://github.com/ilivetruth/perspective-grid/archive/refs/heads/main.zip)
 1. Install/copy files into your active Moho `Tool` scripts folder.
-[Download ZIP](https://github.com/ilivetruth/perspective-grid/archive/refs/heads/main.zip)Extract
 3. Restart Moho.
 4. Select `Perspective Grid`. (Vector layer must be selected, adds a new button under "Other" at the bottom of the drawing toolbar. 
 5. Set `Lines` (default `99`).
